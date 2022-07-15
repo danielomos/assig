@@ -14,7 +14,7 @@ public class Contact {
 
     }
 
-    public String getName() {
+    public String getName() {git
         return name;
     }
 

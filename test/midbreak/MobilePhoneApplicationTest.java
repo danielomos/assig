@@ -26,8 +26,5 @@ class MobilePhoneApplicationTest {
 
     }
 
-    @Test
-    void addUser() {
 
-    }
 }
